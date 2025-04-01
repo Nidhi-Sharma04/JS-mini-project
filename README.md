@@ -1,7 +1,5 @@
 # 🎨 Background Color Changer
 
-![Project Preview](https://nidhi-sharma04.github.io/JS-mini-project/preview-image.png)
-
 ## 🚀 Live Demo
 🔗 **[Try It Here](https://nidhi-sharma04.github.io/JS-mini-project/)**
 
