@@ -1,7 +1,7 @@
 # 🎨 Background Color Changer
 
 ## 🚀 Live Demo
-🔗 **[Try It Here](https://nidhi-sharma04.github.io/JS-mini-project/)**
+🔗 https://nidhi-sharma04.github.io/JS-mini-project/
 
 ## 📌 About
 This is a mini JavaScript project that allows users to change the background color of a webpage dynamically. The project demonstrates how to manipulate the DOM using JavaScript and apply different CSS styles interactively.
